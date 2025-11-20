@@ -1,6 +1,6 @@
 # Anemometer Unit  
 
-======================================================
+---
 
 ### Objective
 Make a reliable cup-and-vane anemometer that can communicate with the central unit via [insert protocol].  
@@ -17,14 +17,12 @@ The design uses hall effect sensor tecnology to detect the components movement w
 - 1 x 3.7V [insert capacity] LiPo battery with jst connector
 
 ### Current state  
-The code has been designed to report a sample of the rotation per minute of the cup every sample period.  
-Relative wind angle measurement is not yet implemented.  
-The code is NOT TESTED, therefore not guaranteed to run.  
-The content of the `3mf_files` directory is incomplete, it's missing the files for the vane of the anemometer.
+The code has been designed to report a sample of the rotation per minute of the cup and the relative wind angle every sample period.
+The code has been tested and works.
 
 ### TODO
-- [ ] Test and validate first code
-- [ ] Troubleshoot first code
-- [ ] Add the vane .3mf files to `3mf_files`
+- [x] Test and validate first code
+- [x] Troubleshoot first code
+- [x] Add the vane .3mf files to `3mf_files`
 - [ ] Update the website with the info in this very document
-- [ ] Implement relative wind angle readings from the AS5600
+- [x] Implement relative wind angle readings from the AS5600

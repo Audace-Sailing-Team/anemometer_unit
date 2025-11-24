@@ -24,7 +24,7 @@ The code has been tested and works.
 - [x] Test and validate first code
 - [x] Troubleshoot first code
 - [x] Add the vane .3mf files to `3mf_files`
-- [ ] Update the website with the info in this very document
+- [x] Update the website with the info in this very document
 - [x] Implement relative wind angle readings from the AS5600
 - [ ] First tests of communication with central unit
 - [ ] Actual calibration with old calibration data

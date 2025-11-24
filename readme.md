@@ -26,3 +26,5 @@ The code has been tested and works.
 - [x] Add the vane .3mf files to `3mf_files`
 - [ ] Update the website with the info in this very document
 - [x] Implement relative wind angle readings from the AS5600
+- [ ] First tests of communication with central unit
+- [ ] Actual calibration with old calibration data

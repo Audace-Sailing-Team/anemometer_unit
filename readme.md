@@ -28,4 +28,4 @@ The code has been tested and works.
 - [x] Implement relative wind angle readings from the AS5600
 - [ ] First tests of communication with central unit
 - [ ] Actual calibration with old calibration data
-- [ ] Update `Progetti in corso` website page with anemometer `Current state` paragraph.
+- [x] Update `Progetti in corso` website page with anemometer `Current state` paragraph.
